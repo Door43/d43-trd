@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[trd:home|Door43 (trd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-trd|d43-trd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-trd/archive/master.zip|d43-trd.zip]]
+
+**Recent Changes**
+{{changes>ns = trd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/trd|Ethnologue data]]
+
